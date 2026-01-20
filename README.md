@@ -1,11 +1,12 @@
 ## Core Components – React Native
 
-- Họ và tên: Lê Tùng
-- Mã sinh viên: (điền mã SV của anh)
-- Môn học: Lập trình Mobile
+- Họ và tên: Lê Văn Tùng
+- Mã sinh viên: 23810310325
+- Môn học: Lập trình trên thiết bị di động
 
 ### Mô tả
 Bài thực hành Core Components sử dụng React Native (Expo).
 
 ### Kết quả chạy
-(Chèn hình ảnh chụp màn hình kết quả chạy từ Expo Snack)
+![Kết quả chạy ứng dụng](screenshots/Screenshot 2026-01-20 091339.png)
+
