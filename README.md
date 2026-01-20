@@ -8,7 +8,8 @@
 Bài thực hành Core Components sử dụng React Native (Expo).
 
 ### Kết quả chạy
-![Kết quả chạy ứng dụng](screenshots/Screenshot 2026-01-20 091339.png)
-![Uploading Screenshot 2026-01-20 091339.png…]()
+![Kết quả chạy ứng dụng](screenshots/scrshot.png)
+<img width="1919" height="1079" alt="scrshot" src="https://github.com/user-attachments/assets/1c97aa65-fb8a-45ac-b3f5-a8a0e39f1296" />
+
 
 
